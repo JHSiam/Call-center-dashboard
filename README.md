@@ -49,7 +49,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/call-center-dashboard.git
+git clone https://github.com/JHSiam/Call-center-dashboard
 
 2. Go to the Project Directory
 cd call-center-dashboard
